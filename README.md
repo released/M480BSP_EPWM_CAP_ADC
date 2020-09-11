@@ -11,9 +11,9 @@ upper channel : EPWM0_CH4 (PA1) , lower channel : use GPIO toggle in EADC00_IRQH
 
 EPWM_TRG_ADC_EVEN_PERIOD (will see GPIO toggle in middle of duty high level)
 
-![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/EVEN_PERIOD_50.jpg)
+![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/master/EVEN_PERIOD_50.jpg)
 
-![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/EVEN_PERIOD_85.jpg)
+![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/master/EVEN_PERIOD_85.jpg)
 
 3. EADC_CH5 (PB5) trigger by EPWM ,  will get result under EADC00_IRQHandler
 
@@ -37,18 +37,18 @@ upper channel : EPWM0_CH4 (PA1) , lower channel : use GPIO toggle in EADC00_IRQH
 
 EPWM_TRG_ADC_EVEN_ZERO (will see GPIO toggle in middle of duty low level)
 
-![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/EVEN_ZERO_50.jpg)
+![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/master/EVEN_ZERO_50.jpg)
 
 EPWM_TRG_ADC_EVEN_ZERO_PERIOD (will see GPIO toggle in middle of duty high and duty low level)
 
-![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/EVEN_ZERO_PERIOD_50.jpg)
+![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/master/EVEN_ZERO_PERIOD_50.jpg)
 
 EPWM_TRG_ADC_EVEN_COMPARE_UP (will see GPIO toggle in duty high level)
 
-![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/EVEN_COMPARE_UP_50.jpg)
+![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/master/EVEN_COMPARE_UP_50.jpg)
 
 EPWM_TRG_ADC_EVEN_COMPARE_DOWN (will see GPIO toggle in duty low level)
 
-![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/EVEN_COMPARE_DOWN_50.jpg)
+![image](https://github.com/released/M480BSP_EPWM_CAP_ADC/blob/master/EVEN_COMPARE_DOWN_50.jpg)
 
 
